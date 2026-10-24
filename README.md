@@ -1,13 +1,15 @@
-# Hola, soy Felipe Suazo 👋
+# Hi, I'm Felipe Suazo 👋
 
-Head of Engineering en **[Zesty](https://zestyfinance.com)**, una app chilena para invertir en acciones de Chile y EE. UU.
+[Leer en español](https://github.com/felipesuazo/felipesuazo/blob/main/README.esp.md)
 
-### En qué trabajo
+Head of Engineering at **[Zesty](https://zestyfinance.com)**, a Chilean app for investing in Chilean and US stocks.
 
-- Lidero el equipo de ingeniería y la arquitectura de la plataforma.
-- Plataformas de inversión: integración con brokers en EE. UU. y Chile, órdenes, posiciones y movimientos de dinero.
-- Arquitecturas orientadas a eventos en AWS: colas, outbox, consumidores idempotentes y migraciones sin downtime.
-- Observabilidad y costos: trazas, alertas y optimización de infraestructura.
+### What I work on
+
+- I lead the engineering team and the platform architecture.
+- Investment platforms: broker integrations in the US and Chile, orders, positions and money movements.
+- Event-driven architectures on AWS: queues, outbox, idempotent consumers and zero-downtime migrations.
+- Observability and costs: tracing, alerting and infrastructure optimization.
 
 ### Stack
 
